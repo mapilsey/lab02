@@ -1,4 +1,3 @@
-
 #include <iostream>
 //изменение для конфликта
 int main() {
@@ -7,5 +6,4 @@ int main() {
     std::cin >> name;
     std::cout << "Hello, world from " << name << "!";
     return 0;
-
 }
