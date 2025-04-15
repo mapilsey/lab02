@@ -1,9 +1,11 @@
 #include <iostream>
-//изменение для конфликта
+#include <string>
+
+using namespace std;
 int main() {
-    std::string name;
-    std::cout << "Enter your name: ";
-    std::cin >> name;
-    std::cout << "Hello, world from " << name << "!";
+    string name;
+    cout << "Enter your name: ";
+    cin >> name;
+    cout << "Hello, world from " << name << "!";
     return 0;
 }
