@@ -34,6 +34,7 @@
 ![изображение](https://github.com/user-attachments/assets/828b0c55-9431-464d-8ea2-0f4dee6ad1c6)
 
 # 9.  Проверьте, что история коммитов доступна в удалёный репозитории.
+![изображение](https://github.com/user-attachments/assets/5d8b6cf5-2d08-4d87-9385-4c4d8c1890d4)
 
 
 
