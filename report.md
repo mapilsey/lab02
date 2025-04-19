@@ -83,6 +83,9 @@
 # 9.  В удалённый репозитории выполните слияние PR  `patch1 -> master`  и удалите ветку  `patch1`  в удаленном репозитории.
 ![изображение](https://github.com/user-attachments/assets/c7c250f1-aeb6-4866-89b7-acae12d0f814)
 
+![изображение](https://github.com/user-attachments/assets/88919e6a-4066-4e96-ba1f-651c9e07ba7d)
+
+![изображение](https://github.com/user-attachments/assets/f868636e-6a60-4ef8-8cb7-95a672619d98)
 
 
 # 10.  Локально выполните  **pull**
@@ -92,6 +95,9 @@
 ![изображение](https://github.com/user-attachments/assets/7edeee22-ecb6-499d-b0ec-b0436a2b1f19)
 
 # 12.  Удалите локальную ветку  `patch1`.
+![изображение](https://github.com/user-attachments/assets/474f5b3f-04f3-4c0a-8ae7-f0f91b87248c)
+
+![изображение](https://github.com/user-attachments/assets/483dac27-f9cd-42f5-9ba5-297b9dffe47a)
 
 
 ### Part III
