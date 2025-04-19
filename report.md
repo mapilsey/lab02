@@ -14,6 +14,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/ae8160cc-4864-45d2-9133-6f09a429ed7a)
 
+![изображение](https://github.com/user-attachments/assets/0a400534-0c61-491f-b1cb-f52d4155c0a6)
 
 
 # 3.  Создайте файл  `hello_world.cpp`  в локальной копии репозитория (который должен был появиться на шаге 2). Реализуйте программу  **Hello world**  на языке C++ используя плохой стиль кода. Например, после заголовочных файлов вставьте строку  `using namespace std;`.
