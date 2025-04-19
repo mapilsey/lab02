@@ -78,8 +78,7 @@
 ![изображение](https://github.com/user-attachments/assets/8270cbb7-f2ae-4268-bf09-801140ec9ca4)
 
 # 8.  Проверьте, что новые изменения есть в созданном на  **шаге 5**  pull-request
-
-
+![изображение](https://github.com/user-attachments/assets/44812bb1-c525-4950-874f-d01b60b69fe6)
 
 # 9.  В удалённый репозитории выполните слияние PR  `patch1 -> master`  и удалите ветку  `patch1`  в удаленном репозитории.
 
