@@ -1,12 +1,12 @@
-   
 #include <iostream>
 #include <string>
-// add 12  
-using namespace std;
+
+//  mapilsey comment   
+
 int main() {
-    string name;
-    cout << "Enter your name: ";
-    cin >> name;
-    cout << "Hello, world from " << name << "!";
+    std::string name;
+    std::cout << "Enter your name: ";
+    std::cin >> name;
+    std::cout << "Hello, world from " << name << "!";
     return 0;
 }
