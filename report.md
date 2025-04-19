@@ -1,11 +1,7 @@
 ### Part I
 
-
-
-
 # 1.  Создайте пустой репозиторий на сервисе github.com 
 ![изображение](https://github.com/user-attachments/assets/d6c37903-cd52-41ae-95db-2e021cb97675)
-
 
 # 2.  Выполните инструкцию по созданию первого коммита на странице репозитория, созданного на предыдещем шаге.
 ![изображение](https://github.com/user-attachments/assets/0d4b74b4-1b50-4245-a2d1-56f642acc50b)
@@ -14,36 +10,28 @@
 
 ![изображение](https://github.com/user-attachments/assets/ae8160cc-4864-45d2-9133-6f09a429ed7a)
 
-![изображение](https://github.com/user-attachments/assets/0a400534-0c61-491f-b1cb-f52d4155c0a6)
-
+![изображение](https://github.com/user-attachments/assets/b20585b8-fb49-4a20-896f-7671dedd5ed6)
 
 # 3.  Создайте файл  `hello_world.cpp`  в локальной копии репозитория (который должен был появиться на шаге 2). Реализуйте программу  **Hello world**  на языке C++ используя плохой стиль кода. Например, после заголовочных файлов вставьте строку  `using namespace std;`.
 
-![изображение](https://github.com/user-attachments/assets/59a073ea-b802-46a6-8bec-b3b97d373a0e)
-![изображение](https://github.com/user-attachments/assets/64c8e595-0736-4f31-8582-053b5269c321)
+![изображение](https://github.com/user-attachments/assets/f9f41fd3-a50e-4f27-a6b4-90a45d1a9b1c)
 
-
+![изображение](https://github.com/user-attachments/assets/3d5d5b15-e130-4253-9842-2d1894757a42)
 
 # 4.  Добавьте этот файл в локальную копию репозитория.
-![изображение](https://github.com/user-attachments/assets/c72ce587-48fc-48c1-a0a1-02351b124224)
-
+![изображение](https://github.com/user-attachments/assets/c45c19d4-5165-4c07-8894-28687b9cb525)
 
 # 5.  Закоммитьте изменения с  _осмысленным_  сообщением.
-![изображение](https://github.com/user-attachments/assets/d05aa853-b4e6-4ff4-861c-925c8a899634)
-
-
+![изображение](https://github.com/user-attachments/assets/1711a807-9db1-445a-81ab-50486025ee50)
 
 # 6.  Изменитьте исходный код так, чтобы программа через стандартный поток ввода запрашивалось имя пользователя. А в стандартный поток вывода печаталось сообщение  `Hello world from @name`, где  `@name`  имя пользователя.
-![изображение](https://github.com/user-attachments/assets/923da0a0-b064-4790-abb3-5c43761aafb8)
-
+![изображение](https://github.com/user-attachments/assets/796a5528-914f-4afa-b27a-b866d04b59be)
 
 # 7.  Закоммитьте новую версию программы.
-![изображение](https://github.com/user-attachments/assets/4445fa63-f332-4a95-974d-62655e946c52)
-
+![изображение](https://github.com/user-attachments/assets/070ae546-4441-47e7-84db-8d086f7ab18c)
  
 # 8.  Запуште изменения в удалёный репозиторий.
-
-
+![изображение](https://github.com/user-attachments/assets/828b0c55-9431-464d-8ea2-0f4dee6ad1c6)
 
 # 9.  Проверьте, что история коммитов доступна в удалёный репозитории.
 
