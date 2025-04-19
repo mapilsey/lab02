@@ -10,12 +10,18 @@
 # 2.  Выполните инструкцию по созданию первого коммита на странице репозитория, созданного на предыдещем шаге.
 ![изображение](https://github.com/user-attachments/assets/0d4b74b4-1b50-4245-a2d1-56f642acc50b)
 
+![изображение](https://github.com/user-attachments/assets/47953249-d348-4e26-bdf6-36875117ca50)
+
+![изображение](https://github.com/user-attachments/assets/ae8160cc-4864-45d2-9133-6f09a429ed7a)
+
+![изображение](https://github.com/user-attachments/assets/0a400534-0c61-491f-b1cb-f52d4155c0a6)
 
 
 # 3.  Создайте файл  `hello_world.cpp`  в локальной копии репозитория (который должен был появиться на шаге 2). Реализуйте программу  **Hello world**  на языке C++ используя плохой стиль кода. Например, после заголовочных файлов вставьте строку  `using namespace std;`.
 
 ![изображение](https://github.com/user-attachments/assets/59a073ea-b802-46a6-8bec-b3b97d373a0e)
 ![изображение](https://github.com/user-attachments/assets/64c8e595-0736-4f31-8582-053b5269c321)
+
 
 
 # 4.  Добавьте этот файл в локальную копию репозитория.
