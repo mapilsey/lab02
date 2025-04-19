@@ -63,8 +63,7 @@
 ![изображение](https://github.com/user-attachments/assets/39148b3e-2307-4a3c-b4b3-17d471342414)
 
 # 4.  Проверьте, что ветка  `patch1`  доступна в удалёный репозитории.
-
-
+![изображение](https://github.com/user-attachments/assets/a3848e97-1628-4632-b114-ee0606589af8)
 
 # 5.  Создайте pull-request  `patch1 -> master`.
 
