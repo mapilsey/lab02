@@ -76,6 +76,8 @@
 # 6.  В локальной копии в ветке  `patch1`  добавьте в исходный код комментарии.
 ![изображение](https://github.com/user-attachments/assets/8270cbb7-f2ae-4268-bf09-801140ec9ca4)
 
+# 7. commit, push.
+
 # 8.  Проверьте, что новые изменения есть в созданном на  **шаге 5**  pull-request
 ![изображение](https://github.com/user-attachments/assets/44812bb1-c525-4950-874f-d01b60b69fe6)
 
