@@ -81,6 +81,7 @@
 ![изображение](https://github.com/user-attachments/assets/44812bb1-c525-4950-874f-d01b60b69fe6)
 
 # 9.  В удалённый репозитории выполните слияние PR  `patch1 -> master`  и удалите ветку  `patch1`  в удаленном репозитории.
+![изображение](https://github.com/user-attachments/assets/c7c250f1-aeb6-4866-89b7-acae12d0f814)
 
 
 
