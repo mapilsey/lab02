@@ -73,7 +73,6 @@
 
 ![изображение](https://github.com/user-attachments/assets/84ade49a-acea-4162-8452-228410dff380)
 
-
 # 6.  В локальной копии в ветке  `patch1`  добавьте в исходный код комментарии.
 ![изображение](https://github.com/user-attachments/assets/8270cbb7-f2ae-4268-bf09-801140ec9ca4)
 
@@ -87,9 +86,8 @@
 
 ![изображение](https://github.com/user-attachments/assets/f868636e-6a60-4ef8-8cb7-95a672619d98)
 
-
 # 10.  Локально выполните  **pull**
-
+![изображение](https://github.com/user-attachments/assets/af87bad1-65d7-44dd-ae0c-d3d144012c8a)
 
 # 11.  С помощью команды  **git log**  просмотрите историю в локальной версии ветки  `master`.
 ![изображение](https://github.com/user-attachments/assets/7edeee22-ecb6-499d-b0ec-b0436a2b1f19)
