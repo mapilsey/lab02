@@ -36,6 +36,8 @@
 # 9.  Проверьте, что история коммитов доступна в удалёный репозитории.
 ![изображение](https://github.com/user-attachments/assets/5d8b6cf5-2d08-4d87-9385-4c4d8c1890d4)
 
+![изображение](https://github.com/user-attachments/assets/ee66fb43-75fe-4d95-81b6-3270a273f5d4)
+
 
 
 
@@ -46,16 +48,19 @@
 
 
 # 1.  В локальной копии репозитория создайте локальную ветку  `patch1`.
+![изображение](https://github.com/user-attachments/assets/6571aefc-1921-47a4-b85e-91ea81613c31)
 
+![изображение](https://github.com/user-attachments/assets/c463b24d-24e4-464b-9c17-da289060a129)
 
+![изображение](https://github.com/user-attachments/assets/f54232ed-f8ff-4822-ab39-8d03f2018358)
+
+![изображение](https://github.com/user-attachments/assets/109475d2-e38f-4207-8baf-b7d7e6d09302)
 
 # 2.  Внесите изменения в ветке  `patch1`  по исправлению кода и избавления от  `using namespace std;`.
-
-
+![изображение](https://github.com/user-attachments/assets/078c757f-4244-482c-a116-ead7d1d5d9ee)
 
 # 3.  **commit**,  **push**  локальную ветку в удалённый репозиторий.
-
-
+![изображение](https://github.com/user-attachments/assets/39148b3e-2307-4a3c-b4b3-17d471342414)
 
 # 4.  Проверьте, что ветка  `patch1`  доступна в удалёный репозитории.
 
