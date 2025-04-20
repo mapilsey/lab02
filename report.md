@@ -107,9 +107,15 @@
 
 
 # 1.  Создайте новую локальную ветку  `patch2`.
+![изображение](https://github.com/user-attachments/assets/1c0a89e1-2646-40c0-ae51-c2942cd4c90d)
 
 
 # 2.  Измените  _code style_  с помощью утилиты  [**clang-format**](http://clang.llvm.org/docs/ClangFormat.html). Например, используя опцию  `-style=Mozilla`.
+![изображение](https://github.com/user-attachments/assets/37afbfec-25ba-43d7-9d3e-811cef829396)
+
+![изображение](https://github.com/user-attachments/assets/94192890-c538-4592-ba92-4d489ef14dcd)
+
+![изображение](https://github.com/user-attachments/assets/ef76ba5c-26d9-4edb-a295-0b07a15d1855)
 
 
 # 3.  **commit**,  **push**, создайте pull-request  `patch2 -> master`.
