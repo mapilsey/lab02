@@ -119,6 +119,8 @@
 
 
 # 3.  **commit**,  **push**, создайте pull-request  `patch2 -> master`.
+![изображение](https://github.com/user-attachments/assets/3e46670a-537e-4e3c-bce5-3aac35e3aae5)
+![изображение](https://github.com/user-attachments/assets/889de69a-b17a-4dfe-a29b-70829935dd2d)
 
 
 # 4.  В ветке  **master**  в удаленном репозитории измените комментарии, например, расставьте знаки препинания, переведите комментарии на другой язык.
