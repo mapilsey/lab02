@@ -3,6 +3,7 @@
  
 using namespace std;
 
+// change comment (part 3, point 4)
 int main() {
     string name;
     cout << "Enter your name: ";
