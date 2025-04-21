@@ -140,6 +140,8 @@
 
 ![изображение](https://github.com/user-attachments/assets/72d27044-c78c-4879-8815-d4fb70aad6c3)
 
+![изображение](https://github.com/user-attachments/assets/5fff395a-170d-4c89-9c76-d1ca81b30a4e)
+
 ![изображение](https://github.com/user-attachments/assets/a2ff895c-82a8-4765-81f8-8d0aae55f085)
 
 
@@ -147,7 +149,17 @@
 
 
 # 8.  Убедитель, что в pull-request пропали конфликтны.
+![изображение](https://github.com/user-attachments/assets/db2234f3-b866-4d62-ab00-6e9ae75d43f0)
 
 
 # 9.  Вмержите pull-request  `patch2 -> master`.
+
+![изображение](https://github.com/user-attachments/assets/e9a2bde8-7a6e-4d08-a146-79c24e0c0dea)
+
+![изображение](https://github.com/user-attachments/assets/3d43238a-f7df-4327-9fd8-ba5d3b8f6906)
+
+![изображение](https://github.com/user-attachments/assets/5d90f92e-ffa7-4322-a16b-4505a1c08e3a)
+
+![изображение](https://github.com/user-attachments/assets/09e865a0-38c4-4427-9463-09fe1f0d248a)
+
 
