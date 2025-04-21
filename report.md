@@ -130,6 +130,18 @@
 
 # 6.  Для этого локально выполните  **pull**  +  **rebase**  (точную последовательность команд, следует узнать самостоятельно).  **Исправьте конфликты**.
 
+![изображение](https://github.com/user-attachments/assets/b3b6c8bb-0381-4f63-ab88-262999d8f77c)
+
+![изображение](https://github.com/user-attachments/assets/c5ac5c42-d653-4dea-9b58-68449e97d90c)
+
+![изображение](https://github.com/user-attachments/assets/11d7cfbc-a451-45d8-a747-ede1be58e0ba)
+
+![изображение](https://github.com/user-attachments/assets/a72e0b59-5822-47da-81c8-a7f5d60e6298)
+
+![изображение](https://github.com/user-attachments/assets/72d27044-c78c-4879-8815-d4fb70aad6c3)
+
+![изображение](https://github.com/user-attachments/assets/a2ff895c-82a8-4765-81f8-8d0aae55f085)
+
 
 # 7.  Сделайте  _force push_  в ветку  `patch2`
 
