@@ -144,13 +144,11 @@
 
 ![изображение](https://github.com/user-attachments/assets/a2ff895c-82a8-4765-81f8-8d0aae55f085)
 
-
 # 7.  Сделайте  _force push_  в ветку  `patch2`
-
+![изображение](https://github.com/user-attachments/assets/b6e360c2-7b90-4f85-a71d-8f9a59ed006c)
 
 # 8.  Убедитель, что в pull-request пропали конфликтны.
 ![изображение](https://github.com/user-attachments/assets/db2234f3-b866-4d62-ab00-6e9ae75d43f0)
-
 
 # 9.  Вмержите pull-request  `patch2 -> master`.
 
